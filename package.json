@@ -1,5 +1,5 @@
 {
-  "name": "@identicris/identi-cheerup",
+  "name": "@identi-opensource/identi-cheerup",
   "version": "1.0.0",
   "description": "A simple cheer up by Identi.",
   "main": "index.js",
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/identi-opensource/identi-cheerup#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
   }
 }
