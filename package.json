@@ -1,0 +1,31 @@
+{
+  "name": "@identicris/identi-cheerup",
+  "version": "1.0.0",
+  "description": "A simple cheer up by Identi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/identi-opensource/identi-cheerup.git"
+  },
+  "keywords": [
+    "javascript",
+    "mensajes",
+    "messages",
+    "animo",
+    "cheer up",
+    "inspiracion",
+    "inspire"
+  ],
+  "author": "Cristian Acuña",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/identi-opensource/identi-cheerup/issues"
+  },
+  "homepage": "https://github.com/identi-opensource/identi-cheerup#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
